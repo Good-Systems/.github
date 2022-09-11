@@ -1,4 +1,4 @@
-![Good Systems](https://github.com/Good-Systems/.github/blob/main/goodsystems.png) 
+![Good Systems](https://raw.githubusercontent.com/Good-Systems/.github/main/goodsytems.png) 
 
 ## Get Involved
 
