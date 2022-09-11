@@ -6,7 +6,7 @@ Right now, open research communities are exploring amazing frontiers together, a
 
 * [Explore featured projects](https://bridgingbarriers.utexas.edu/good-systems#core-research-projects)
 * [Explore open source jobs at Good Systems](https://hr.utexas.edu/student/student-academic-employment)
-* [Read our annual report on the progress of our research projects](https://bridgingbarriers.utexas.edu/past-annual-reports)
+* [Read our annual report on the progress of our research projects](https://bridgingbarriers.utexas.edu/good-systems#adobe-dc-view-gs)
 
 Visit [goodsystems.utexas.edu](https://bridgingbarriers.utexas.edu/good-systems) to learn more!
 
